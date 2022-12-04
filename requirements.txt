@@ -85,7 +85,7 @@ pandocfilters==1.5.0; python_full_version >= "3.7.1" and python_version < "4" an
 parso==0.8.3; python_version >= "3.8"
 pexpect==4.8.0; sys_platform != "win32" and python_version >= "3.8"
 pickleshare==0.7.5; python_version >= "3.8"
-pillow==9.2.0; python_version >= "3.7"
+pillow==9.3.0; python_version >= "3.7"
 platformdirs==2.5.2; python_version >= "3.7"
 pre-commit==2.20.0; python_version >= "3.7"
 prometheus-client==0.14.1; python_version >= "3.7"
